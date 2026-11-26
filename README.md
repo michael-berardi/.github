@@ -16,9 +16,8 @@ there is no separate organization profile in this repository.
 
 ## Privacy
 
-This repository contains community files only. It runs no code and stores no data
-on your machine. The projects it links to follow one standard: tools run locally,
-with no telemetry or analytics, and use the network only for features you
-configure or start yourself (for example, a model provider you choose). Each
-project's README has its own Privacy section covering its network use, local
-files and how to delete them.
+This repository holds community files only: it runs no code and stores nothing.
+The projects it links to run locally with no telemetry or analytics. Apps and
+command-line tools make one anonymous update check a day, which you can turn off.
+Any other network use is a feature you set up, such as a model provider you choose.
+Each project's README has its own Privacy section with the details.
