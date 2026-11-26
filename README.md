@@ -13,3 +13,12 @@ GitHub uses these files when a repository does not provide its own:
 The [project directory](https://github.com/michael-berardi/michael-berardi)
 lists the public repositories. This account uses that repository for its profile;
 there is no separate organization profile in this repository.
+
+## Privacy
+
+This repository contains community files only. It runs no code and stores no data
+on your machine. The projects it links to follow one standard: tools run locally,
+with no telemetry or analytics, and use the network only for features you
+configure or start yourself (for example, a model provider you choose). Each
+project's README has its own Privacy section covering its network use, local
+files and how to delete them.
